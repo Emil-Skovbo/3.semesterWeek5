@@ -1,0 +1,8 @@
+Exceptions\GenericExceptionMapper.class
+Exceptions\ExceptionDTO.class
+rest\ApplicationConfig.class
+Exceptions\PersonNotFoundException.class
+Exceptions\PersonNotFoundExceptionMapper.class
+rest\ErrordemoResource.class
+rest\Person.class
+rest\Gson.class
